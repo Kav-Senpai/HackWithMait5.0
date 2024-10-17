@@ -1,7 +1,6 @@
 import Navbar from '@/components/Navbar'
 import Sidebar from '@/components/Sidebar'
 import { Metadata } from 'next';
-import { relative } from 'path'
 import React, { ReactNode } from 'react'
 
 export const metadata: Metadata = {
